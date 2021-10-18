@@ -3,7 +3,7 @@ import "./css/about-box.css";
 
 function AboutBox() {
   return (
-    <div class="AboutBox">
+    <div class="about-box">
       <div class="col-7 offset-1 about-box">
         <ul class="list-group">
           <p class="list-group-item heading">About</p>
